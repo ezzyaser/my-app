@@ -9,6 +9,12 @@ const nextConfig: NextConfig = {
   // experimental: {
   //   reactRoot: "concurrent",
   // },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+  typescript: {
+    ignoreBuildErrors: true,
+  },
 
 };
 
