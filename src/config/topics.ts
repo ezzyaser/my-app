@@ -1,4 +1,3 @@
-import { link } from "fs";
 
 export const topics = [
   {
@@ -19,7 +18,7 @@ export const topics = [
     description:
       'تعلم لغة برمجة سهلة وافهم كل شيء عن البرمجة والوظائف الأساسية.',
     level: 'متوسط',
-    link: 'https://youtu.be/Drjvm8p013o?feature=shared',
+    link: 'https://youtu.be/eeRw__TlgmQ?feature=shared',
   },
   {
     title: 'هياكل البيانات والخوارزميات',

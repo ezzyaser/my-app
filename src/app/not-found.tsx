@@ -12,9 +12,9 @@ export default function NotFound() {
         className="mb-5"
         src="/Images/Oops.jpeg"
         alt="Page Not Found"
-        width={300}
-        height={300}
-        sizes="300px"
+        width={400}
+        height={400}
+        sizes="400"
         priority={true}
         title="Page Not Found"
       />

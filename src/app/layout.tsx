@@ -1,12 +1,10 @@
 import type { Metadata } from 'next';
 import '@/app/globals.css';
-import Footer from '@/components/Footer';
 import { ThemeProvider } from '@/components/theme-provider';
-import Navbar from '@/components/Navbar';
 export const metadata: Metadata = {
-  title: 'Learn With me📚',
-  description: 'Learn Everything you need to be ',
-  icons: '/Images/favicon.ico',
+  title: 'زاد المعرفة📜',
+  description: '',
+  icons: '/Images/logo.webp',
 };
 
 export default function RootLayout({
@@ -17,8 +15,8 @@ export default function RootLayout({
   return (
     <html
       lang="ar"
-      className=" scroll-p-20 scroll-smooth"
-      suppressHydrationWarning
+      className=" scroll-p-20 scroll-smooth suppressHydrationWarning "
+      dir="rtl"
     >
       <body>
         <div className="h-full relative font-sans antialiased ">
@@ -30,13 +28,11 @@ export default function RootLayout({
                 enableSystem
                 disableTransitionOnChange
               >
-                <Navbar />
                 {children}
               </ThemeProvider>
             </div>
           </main>
         </div>
-        <Footer />
       </body>
     </html>
   );
