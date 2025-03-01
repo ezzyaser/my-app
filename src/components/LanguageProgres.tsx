@@ -56,7 +56,7 @@ export default function LanguageProgres() {
 
       <div className="flex justify-center mt-8">
         <Link
-          href="/blogpost/How-acquire-language"
+          href="https://learn-to-succed.vercel.app/blogpost/3How-acquire-language"
           className={cn(
             buttonVariants({ variant: 'default' }),
             'flex flex-col justify-center items-center px-6 py-3',
