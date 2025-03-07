@@ -15,6 +15,17 @@ bun dev
 ```
 
 <!--
+<!--
+https://youtu.be/d0yGdNEWdn0?feature=shared
+https://youtu.be/o_XVt5rdpFY?feature=shared
+https://archive.org/details/difflang00002/page/n5/mode/2up
+https://www.kutubypdf.com/views/?128776
+https://youtu.be/YSpYBTGa8t8?feature=shared
+https://youtu.be/Yr_poW-KK1Q?feature=shared
+https://youtu.be/mXqFD2bWHxU?feature=shared
+https://youtu.be/83y55TVK09E?feature=shared
+https://youtu.be/3i1lNJPY-4Q?feature=shared
+https://youtu.be/95NgtNgmnWA?feature=shared
 // https://neon.tech/docs/get-started-with-neon/why-neon
 // https://youtu.be/7-NZ0MlPpJA?feature=shared
 // https://youtu.be/-55iMEgSLhg?feature=shared
