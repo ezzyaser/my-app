@@ -63,6 +63,7 @@ export default function Page() {
             تساعدك في البدء:
           </p>
           <ul className="list-inside list-disc mt-4">
+            <li>قُم بتعلم أساسيات الحاسوب والأجهزة </li>
             <li>ابدأ بتعلم لغة برمجة سهلة مثل JavaScript أو Python.</li>
             <li>اقرأ الكتب والدروس عبر الإنترنت لفهم الأساسيات.</li>
             <li>تدرب على كتابة الأكواد وحل التحديات البرمجية.</li>
