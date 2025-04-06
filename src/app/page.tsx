@@ -54,7 +54,7 @@ export default function Page() {
             { href: '/Languag', label: 'اللغات 🌍' },
             { href: '/Soft-Skills', label: 'مهارات الحياة وسوق العمل 😊' },
             { href: '/Marketing', label: 'التسويق الإلكتروني 💸' },
-            { href: '/Market', label: 'متجر الأدوات 💎' },
+            // { href: '/Market', label: 'متجر الأدوات 💎' },
             { href: '/Blog', label: 'المدونة ✍' },
             { href: '/book', label: 'الكتب المؤلفة 📖' },
             { href: '/About', label: 'إقرأ عني 🕵️‍♀️' },
