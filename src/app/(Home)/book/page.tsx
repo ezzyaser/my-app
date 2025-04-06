@@ -3,6 +3,7 @@ import books from '@/config/books';
 export const metadata = {
   title: 'كتبي 📚',
   description: 'مجموعة من الكتب التي سيتم تأليفها',
+  icons: '/Images/book.jpeg',
 };
 
 export default function Page() {

@@ -1,15 +1,14 @@
+import About from '@/components/About';
 import React from 'react';
-import AboutIntro from '@/components/AboutIntro';
 export const metadata = {
-  title: 'إقرأ عن المصمم 🦸‍♂️',
-  description: 'كاتب هذا الموقع ومصممه 👨‍💻',
+  title: 'إقرأ عني😊',
+  description: 'سيرة ذاتية عن المصمم',
+  icons: '/Images/person.jpeg',
 };
-
 export default function page() {
   return (
     <div>
-      {' '}
-      <AboutIntro />
+      <About />
     </div>
   );
 }

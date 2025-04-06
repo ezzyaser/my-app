@@ -3,8 +3,9 @@ import Link from 'next/link';
 import { cn } from '@/lib/utils';
 
 export const metadata = {
-  title: 'التسويق الإلكتروني💻',
+  title: 'التسويق الإلكتروني',
   description: 'ما هو التسويق الإلكتروني وكيف تتعمله',
+  icons: '/Images/Market.webp',
 };
 
 export default function Page() {

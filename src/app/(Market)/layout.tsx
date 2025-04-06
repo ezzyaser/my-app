@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'متجر الدرر 💎',
+  title: 'متجر الدرر ',
   description: '',
   icons: '/Images/Market.webp',
 };

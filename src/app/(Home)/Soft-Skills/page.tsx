@@ -2,9 +2,11 @@ import React from 'react';
 import MaxWidthWrapper from '@/components/MaxWidthWrapper';
 import Skills from '@/config/Skills';
 import Link from 'next/link';
+import { icons } from 'lucide-react';
 export const metadata = {
-  title: 'المهارات الإنسانية💌',
+  title: 'المهارات الإنسانية',
   description: 'To learn Soft Skills to be Good in Work Envieroment',
+  icons: '/Images/favicon.ico',
 };
 
 export default function page() {

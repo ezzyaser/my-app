@@ -5,7 +5,7 @@ const Skills = [
       name: 'التخطيط',
       description:
         'القدرة على التخطيط للمستقبل وتحديد الأهداف والعمل على تحقيقها في ضوء رسالة ورؤية واضحة.',
-      link: 'https://youtu.be/J7VqdsJeM9w?feature=shared'
+      link: 'https://youtube.com/playlist?list=PLzwteoVFs5prvgQmCAI8Nia-0inA6I2Jo&feature=shared'
     },
     {
       id: 2,

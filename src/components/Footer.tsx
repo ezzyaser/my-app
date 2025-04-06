@@ -62,3 +62,35 @@ export default function Footer() {
     </footer>
   );
 }
+
+// 1️⃣ رابط تبرع عبر PayPal
+// إذا كان لديك حساب PayPal، يمكنك إنشاء رابط تبرع عبر:
+// 🔗 https://www.paypal.com/donate/buttons
+
+// ثم استخدامه في HTML:
+
+// html
+// Copy
+// Edit
+// <a href="https://www.paypal.com/donate?hosted_button_id=YOUR_BUTTON_ID" target="_blank">
+//     تبرع عبر PayPal
+// </a>
+// 2️⃣ رابط تبرع عبر Stripe
+// إذا كنت تستخدم Stripe، يمكنك إنشاء صفحة تبرع عبر Stripe Checkout:
+
+// html
+// Copy
+// Edit
+// <a href="https://donate.stripe.com/YOUR_LINK" target="_blank">
+//     تبرع عبر Stripe
+// </a>
+// 3️⃣ رابط تبرع عبر Buy Me a Coffee ☕
+// خدمة مشهورة لدعم صانعي المحتوى:
+
+// html
+// Copy
+// Edit
+// <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+//     اشترِ لي قهوة ☕
+// </a>
+// إذا كنت بحاجة إلى زر مخصص، يمكنني مساعدتك في تصميمه باستخدام CSS 🚀. هل تريد تصميم زر مميز؟ 😊
